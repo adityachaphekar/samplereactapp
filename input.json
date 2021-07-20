@@ -1,0 +1,5 @@
+{	"ApplicationType":"React",
+	"ApplicationName":"ReactApp",
+	"JenkinsJobName":"ReactJob",
+	"output_format":"zip"
+}
