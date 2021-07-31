@@ -1,5 +1,6 @@
 {	"ApplicationType":"React",
-	"ApplicationName":"ReactAppSample",
-	"BuildName":"ReactJob",
-	"OutputFormat":"zip"
+	"ApplicationName":"Invoice_Transaction_UI",
+ 	"Build_Tool":"npm",
+	"BuildName":"Invoice_App_Job",
+ 	"BuildType":"Basic_React_Build"
 }
